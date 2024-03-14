@@ -1,0 +1,1 @@
+ffmpeg -i ".\temp\temp.mp4" -i ".\temp\temp.wav" -c:v copy -c:a aac -strict experimental "out.mp4"
