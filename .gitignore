@@ -3,3 +3,5 @@
   
 # 排除名为 temp 的目录及其所有内容  
 temp/
+__pycache__/
+exp/
